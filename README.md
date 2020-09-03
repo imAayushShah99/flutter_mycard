@@ -1,10 +1,8 @@
 # my_card_og
 
-A new Flutter application.
+A Flutter application, that gives you my description.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
